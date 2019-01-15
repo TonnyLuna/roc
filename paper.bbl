@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.9 $
+% $ biblatex version 2.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -16,459 +16,392 @@
   {}
 \endgroup
 
-\datalist[entry]{none/global//global/global}
-  \entry{litman2017autonomous}{book}{}
-    \name{author}{1}{}{%
-      {{hash=LT}{%
-         family={Litman},
-         familyi={L\bibinitperiod},
-         given={Todd},
-         giveni={T\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {Victoria Transport Policy Institute Victoria, Canada}%
-    }
-    \strng{namehash}{LT1}
-    \strng{fullhash}{LT1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{title}{Autonomous vehicle implementation predictions}
-    \field{year}{2017}
-  \endentry
+\entry{litman2017autonomous}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Litman}{L.}%
+     {Todd}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Victoria Transport Policy Institute Victoria, Canada}%
+  }
+  \strng{namehash}{LT1}
+  \strng{fullhash}{LT1}
+  \field{title}{Autonomous vehicle implementation predictions}
+  \field{year}{2017}
+\endentry
 
-  \entry{pattanayak2017pro}{book}{}
-    \name{author}{3}{}{%
-      {{hash=PS}{%
-         family={Pattanayak},
-         familyi={P\bibinitperiod},
-         given={Santanu},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=P}{%
-         family={Pattanayak},
-         familyi={P\bibinitperiod},
-      }}%
-      {{hash=JS}{%
-         family={John},
-         familyi={J\bibinitperiod},
-         given={Suresh},
-         giveni={S\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {Springer}%
-    }
-    \strng{namehash}{PSPJS1}
-    \strng{fullhash}{PSPJS1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{title}{Pro Deep Learning with TensorFlow}
-    \field{year}{2017}
-  \endentry
+\entry{pattanayak2017pro}{book}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Pattanayak}{P.}%
+     {Santanu}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pattanayak}{P.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {John}{J.}%
+     {Suresh}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{PSPJS1}
+  \strng{fullhash}{PSPJS1}
+  \field{title}{Pro Deep Learning with TensorFlow}
+  \field{year}{2017}
+\endentry
 
-  \entry{zhang2016architectural}{inproceedings}{}
-    \name{author}{7}{}{%
-      {{hash=ZS}{%
-         family={Zhang},
-         familyi={Z\bibinitperiod},
-         given={Saizheng},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=WY}{%
-         family={Wu},
-         familyi={W\bibinitperiod},
-         given={Yuhuai},
-         giveni={Y\bibinitperiod},
-      }}%
-      {{hash=CT}{%
-         family={Che},
-         familyi={C\bibinitperiod},
-         given={Tong},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=LZ}{%
-         family={Lin},
-         familyi={L\bibinitperiod},
-         given={Zhouhan},
-         giveni={Z\bibinitperiod},
-      }}%
-      {{hash=MR}{%
-         family={Memisevic},
-         familyi={M\bibinitperiod},
-         given={Roland},
-         giveni={R\bibinitperiod},
-      }}%
-      {{hash=SRR}{%
-         family={Salakhutdinov},
-         familyi={S\bibinitperiod},
-         given={Ruslan\bibnamedelima R},
-         giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
-      }}%
-      {{hash=BY}{%
-         family={Bengio},
-         familyi={B\bibinitperiod},
-         given={Yoshua},
-         giveni={Y\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{ZSWYCT+1}
-    \strng{fullhash}{ZSWYCTLZMRSRRBY1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{booktitle}{Advances in Neural Information Processing Systems}
-    \field{pages}{1822\bibrangedash 1830}
-    \field{title}{Architectural complexity measures of recurrent neural
-  networks}
-    \field{year}{2016}
-  \endentry
+\entry{zhang2016architectural}{inproceedings}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Zhang}{Z.}%
+     {Saizheng}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wu}{W.}%
+     {Yuhuai}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Che}{C.}%
+     {Tong}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lin}{L.}%
+     {Zhouhan}{Z.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Memisevic}{M.}%
+     {Roland}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Salakhutdinov}{S.}%
+     {Ruslan~R}{R.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bengio}{B.}%
+     {Yoshua}{Y.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{ZSWYCT+1}
+  \strng{fullhash}{ZSWYCTLZMRSRRBY1}
+  \field{booktitle}{Advances in Neural Information Processing Systems}
+  \field{pages}{1822\bibrangedash 1830}
+  \field{title}{Architectural complexity measures of recurrent neural networks}
+  \field{year}{2016}
+\endentry
 
-  \entry{bonet2007redes}{article}{}
-    \name{author}{5}{}{%
-      {{hash=BCI}{%
-         family={Bonet\bibnamedelima Cruz},
-         familyi={B\bibinitperiod\bibinitdelim C\bibinitperiod},
-         given={Isis},
-         giveni={I\bibinitperiod},
-      }}%
-      {{hash=SMS}{%
-         family={Salazar\bibnamedelima Mart{\'\i}nez},
-         familyi={S\bibinitperiod\bibinitdelim M\bibinitperiod},
-         given={Sain},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=RAA}{%
-         family={Rodr{\'\i}guez\bibnamedelima Abed},
-         familyi={R\bibinitperiod\bibinitdelim A\bibinitperiod},
-         given={Abdel},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=GAR}{%
-         family={Grau\bibnamedelima {\'A}balo},
-         familyi={G\bibinitperiod\bibinitdelim {\'A}\bibinitperiod},
-         given={Ricardo},
-         giveni={R\bibinitperiod},
-      }}%
-      {{hash=GLMM}{%
-         family={Garc{\'\i}a\bibnamedelima Lorenzo},
-         familyi={G\bibinitperiod\bibinitdelim L\bibinitperiod},
-         given={Maria\bibnamedelima Matilde},
-         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {Universidad de las Ciencias Inform{\'a}ticas}%
-    }
-    \strng{namehash}{BCISMSRAA+1}
-    \strng{fullhash}{BCISMSRAAGARGLMM1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{number}{4}
-    \field{title}{Redes neuronales recurrentes para el an{\'a}lisis de
+\entry{bonet2007redes}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Bonet~Cruz}{B.~C.}%
+     {Isis}{I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Salazar~Mart{\'\i}nez}{S.~M.}%
+     {Sain}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rodr{\'\i}guez~Abed}{R.~A.}%
+     {Abdel}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Grau~{\'A}balo}{G.~{\'A}.}%
+     {Ricardo}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Garc{\'\i}a~Lorenzo}{G.~L.}%
+     {Maria~Matilde}{M.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Universidad de las Ciencias Inform{\'a}ticas}%
+  }
+  \strng{namehash}{BCISMSRAA+1}
+  \strng{fullhash}{BCISMSRAAGARGLMM1}
+  \field{number}{4}
+  \field{title}{Redes neuronales recurrentes para el an{\'a}lisis de
   secuencias}
-    \field{volume}{1}
-    \field{journaltitle}{Revista Cubana de Ciencias Inform{\'a}ticas}
-    \field{year}{2007}
-  \endentry
+  \field{volume}{1}
+  \field{journaltitle}{Revista Cubana de Ciencias Inform{\'a}ticas}
+  \field{year}{2007}
+\endentry
 
-  \entry{hochreiter1997long}{article}{}
-    \name{author}{2}{}{%
-      {{hash=HS}{%
-         family={Hochreiter},
-         familyi={H\bibinitperiod},
-         given={Sepp},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=SJ}{%
-         family={Schmidhuber},
-         familyi={S\bibinitperiod},
-         given={J{\"u}rgen},
-         giveni={J\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {MIT Press}%
-    }
-    \strng{namehash}{HSSJ1}
-    \strng{fullhash}{HSSJ1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{number}{8}
-    \field{pages}{1735\bibrangedash 1780}
-    \field{title}{Long short-term memory}
-    \field{volume}{9}
-    \field{journaltitle}{Neural computation}
-    \field{year}{1997}
-  \endentry
+\entry{hochreiter1997long}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hochreiter}{H.}%
+     {Sepp}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schmidhuber}{S.}%
+     {J{\"u}rgen}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {MIT Press}%
+  }
+  \strng{namehash}{HSSJ1}
+  \strng{fullhash}{HSSJ1}
+  \field{number}{8}
+  \field{pages}{1735\bibrangedash 1780}
+  \field{title}{Long short-term memory}
+  \field{volume}{9}
+  \field{journaltitle}{Neural computation}
+  \field{year}{1997}
+\endentry
 
-  \entry{bianchi2017recurrent}{book}{}
-    \name{author}{5}{}{%
-      {{hash=BFM}{%
-         family={Bianchi},
-         familyi={B\bibinitperiod},
-         given={Filippo\bibnamedelima Maria},
-         giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-      {{hash=ME}{%
-         family={Maiorino},
-         familyi={M\bibinitperiod},
-         given={Enrico},
-         giveni={E\bibinitperiod},
-      }}%
-      {{hash=KMC}{%
-         family={Kampffmeyer},
-         familyi={K\bibinitperiod},
-         given={Michael\bibnamedelima C},
-         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
-      }}%
-      {{hash=RA}{%
-         family={Rizzi},
-         familyi={R\bibinitperiod},
-         given={Antonello},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=JR}{%
-         family={Jenssen},
-         familyi={J\bibinitperiod},
-         given={Robert},
-         giveni={R\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {Springer}%
-    }
-    \strng{namehash}{BFMMEKMC+1}
-    \strng{fullhash}{BFMMEKMCRAJR1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{title}{Recurrent Neural Networks for Short-Term Load Forecasting: An
+\entry{bianchi2017recurrent}{book}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Bianchi}{B.}%
+     {Filippo~Maria}{F.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Maiorino}{M.}%
+     {Enrico}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kampffmeyer}{K.}%
+     {Michael~C}{M.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rizzi}{R.}%
+     {Antonello}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jenssen}{J.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{BFMMEKMC+1}
+  \strng{fullhash}{BFMMEKMCRAJR1}
+  \field{title}{Recurrent Neural Networks for Short-Term Load Forecasting: An
   Overview and Comparative Analysis}
-    \field{year}{2017}
-  \endentry
+  \field{year}{2017}
+\endentry
 
-  \entry{tian2018deeptest}{inproceedings}{}
-    \name{author}{4}{}{%
-      {{hash=TY}{%
-         family={Tian},
-         familyi={T\bibinitperiod},
-         given={Yuchi},
-         giveni={Y\bibinitperiod},
-      }}%
-      {{hash=PK}{%
-         family={Pei},
-         familyi={P\bibinitperiod},
-         given={Kexin},
-         giveni={K\bibinitperiod},
-      }}%
-      {{hash=JS}{%
-         family={Jana},
-         familyi={J\bibinitperiod},
-         given={Suman},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=RB}{%
-         family={Ray},
-         familyi={R\bibinitperiod},
-         given={Baishakhi},
-         giveni={B\bibinitperiod},
-      }}%
-    }
-    \list{organization}{1}{%
-      {ACM}%
-    }
-    \strng{namehash}{TYPKJS+1}
-    \strng{fullhash}{TYPKJSRB1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{booktitle}{Proceedings of the 40th International Conference on
+\entry{tian2018deeptest}{inproceedings}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Tian}{T.}%
+     {Yuchi}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pei}{P.}%
+     {Kexin}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jana}{J.}%
+     {Suman}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ray}{R.}%
+     {Baishakhi}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {ACM}%
+  }
+  \strng{namehash}{TYPKJS+1}
+  \strng{fullhash}{TYPKJSRB1}
+  \field{booktitle}{Proceedings of the 40th International Conference on
   Software Engineering}
-    \field{pages}{303\bibrangedash 314}
-    \field{title}{Deeptest: Automated testing of deep-neural-network-driven
+  \field{pages}{303\bibrangedash 314}
+  \field{title}{Deeptest: Automated testing of deep-neural-network-driven
   autonomous cars}
-    \field{year}{2018}
-  \endentry
+  \field{year}{2018}
+\endentry
 
-  \entry{hassan2018convolutional}{article}{}
-    \name{author}{2}{}{%
-      {{hash=HA}{%
-         family={Hassan},
-         familyi={H\bibinitperiod},
-         given={Abdalraouf},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=MA}{%
-         family={Mahmood},
-         familyi={M\bibinitperiod},
-         given={Ausif},
-         giveni={A\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {IEEE}%
-    }
-    \strng{namehash}{HAMA1}
-    \strng{fullhash}{HAMA1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{pages}{13949\bibrangedash 13957}
-    \field{title}{Convolutional Recurrent Deep Learning Model for Sentence
+\entry{hassan2018convolutional}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hassan}{H.}%
+     {Abdalraouf}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mahmood}{M.}%
+     {Ausif}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IEEE}%
+  }
+  \strng{namehash}{HAMA1}
+  \strng{fullhash}{HAMA1}
+  \field{pages}{13949\bibrangedash 13957}
+  \field{title}{Convolutional Recurrent Deep Learning Model for Sentence
   Classification}
-    \field{volume}{6}
-    \field{journaltitle}{IEEE Access}
-    \field{year}{2018}
-  \endentry
+  \field{volume}{6}
+  \field{journaltitle}{IEEE Access}
+  \field{year}{2018}
+\endentry
 
-  \entry{pinheiro2014recurrent}{inproceedings}{}
-    \name{author}{2}{}{%
-      {{hash=PPH}{%
-         family={Pinheiro},
-         familyi={P\bibinitperiod},
-         given={Pedro\bibnamedelima HO},
-         giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod},
-      }}%
-      {{hash=CR}{%
-         family={Collobert},
-         familyi={C\bibinitperiod},
-         given={Ronan},
-         giveni={R\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{PPHCR1}
-    \strng{fullhash}{PPHCR1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{booktitle}{31st International Conference on Machine Learning (ICML)}
-    \field{number}{EPFL-CONF-199822}
-    \field{title}{Recurrent convolutional neural networks for scene labeling}
-    \field{year}{2014}
-  \endentry
+\entry{pinheiro2014recurrent}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Pinheiro}{P.}%
+     {Pedro~HO}{P.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Collobert}{C.}%
+     {Ronan}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PPHCR1}
+  \strng{fullhash}{PPHCR1}
+  \field{booktitle}{31st International Conference on Machine Learning (ICML)}
+  \field{number}{EPFL-CONF-199822}
+  \field{title}{Recurrent convolutional neural networks for scene labeling}
+  \field{year}{2014}
+\endentry
 
-  \entry{bojarski2016end}{article}{}
-    \true{moreauthor}
-    \name{author}{10}{}{%
-      {{hash=BM}{%
-         family={Bojarski},
-         familyi={B\bibinitperiod},
-         given={Mariusz},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=DTD}{%
-         family={Del\bibnamedelima Testa},
-         familyi={D\bibinitperiod\bibinitdelim T\bibinitperiod},
-         given={Davide},
-         giveni={D\bibinitperiod},
-      }}%
-      {{hash=DD}{%
-         family={Dworakowski},
-         familyi={D\bibinitperiod},
-         given={Daniel},
-         giveni={D\bibinitperiod},
-      }}%
-      {{hash=FB}{%
-         family={Firner},
-         familyi={F\bibinitperiod},
-         given={Bernhard},
-         giveni={B\bibinitperiod},
-      }}%
-      {{hash=FB}{%
-         family={Flepp},
-         familyi={F\bibinitperiod},
-         given={Beat},
-         giveni={B\bibinitperiod},
-      }}%
-      {{hash=GP}{%
-         family={Goyal},
-         familyi={G\bibinitperiod},
-         given={Prasoon},
-         giveni={P\bibinitperiod},
-      }}%
-      {{hash=JLD}{%
-         family={Jackel},
-         familyi={J\bibinitperiod},
-         given={Lawrence\bibnamedelima D},
-         giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod},
-      }}%
-      {{hash=MM}{%
-         family={Monfort},
-         familyi={M\bibinitperiod},
-         given={Mathew},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=MU}{%
-         family={Muller},
-         familyi={M\bibinitperiod},
-         given={Urs},
-         giveni={U\bibinitperiod},
-      }}%
-      {{hash=ZJ}{%
-         family={Zhang},
-         familyi={Z\bibinitperiod},
-         given={Jiakai},
-         giveni={J\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{BMDTDDD+1}
-    \strng{fullhash}{BMDTDDDFBFBGPJLDMMMUZJ+1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{title}{End to end learning for self-driving cars}
-    \field{journaltitle}{arXiv preprint arXiv:1604.07316}
-    \field{year}{2016}
-  \endentry
+\entry{bojarski2016end}{article}{}
+  \true{moreauthor}
+  \name{author}{10}{}{%
+    {{}%
+     {Bojarski}{B.}%
+     {Mariusz}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Del~Testa}{D.~T.}%
+     {Davide}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dworakowski}{D.}%
+     {Daniel}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Firner}{F.}%
+     {Bernhard}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Flepp}{F.}%
+     {Beat}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Goyal}{G.}%
+     {Prasoon}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jackel}{J.}%
+     {Lawrence~D}{L.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Monfort}{M.}%
+     {Mathew}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Muller}{M.}%
+     {Urs}{U.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zhang}{Z.}%
+     {Jiakai}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BMDTDDD+1}
+  \strng{fullhash}{BMDTDDDFBFBGPJLDMMMUZJ+1}
+  \field{title}{End to end learning for self-driving cars}
+  \field{journaltitle}{arXiv preprint arXiv:1604.07316}
+  \field{year}{2016}
+\endentry
 
-  \entry{bojarski2017explaining}{article}{}
-    \name{author}{7}{}{%
-      {{hash=BM}{%
-         family={Bojarski},
-         familyi={B\bibinitperiod},
-         given={Mariusz},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=YP}{%
-         family={Yeres},
-         familyi={Y\bibinitperiod},
-         given={Philip},
-         giveni={P\bibinitperiod},
-      }}%
-      {{hash=CA}{%
-         family={Choromanska},
-         familyi={C\bibinitperiod},
-         given={Anna},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=CK}{%
-         family={Choromanski},
-         familyi={C\bibinitperiod},
-         given={Krzysztof},
-         giveni={K\bibinitperiod},
-      }}%
-      {{hash=FB}{%
-         family={Firner},
-         familyi={F\bibinitperiod},
-         given={Bernhard},
-         giveni={B\bibinitperiod},
-      }}%
-      {{hash=JL}{%
-         family={Jackel},
-         familyi={J\bibinitperiod},
-         given={Lawrence},
-         giveni={L\bibinitperiod},
-      }}%
-      {{hash=MU}{%
-         family={Muller},
-         familyi={M\bibinitperiod},
-         given={Urs},
-         giveni={U\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{BMYPCA+1}
-    \strng{fullhash}{BMYPCACKFBJLMU1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{title}{Explaining how a deep neural network trained with end-to-end
+\entry{bojarski2017explaining}{article}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Bojarski}{B.}%
+     {Mariusz}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Yeres}{Y.}%
+     {Philip}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Choromanska}{C.}%
+     {Anna}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Choromanski}{C.}%
+     {Krzysztof}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Firner}{F.}%
+     {Bernhard}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jackel}{J.}%
+     {Lawrence}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Muller}{M.}%
+     {Urs}{U.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BMYPCA+1}
+  \strng{fullhash}{BMYPCACKFBJLMU1}
+  \field{title}{Explaining how a deep neural network trained with end-to-end
   learning steers a car}
-    \field{journaltitle}{arXiv preprint arXiv:1704.07911}
-    \field{year}{2017}
-  \endentry
-\enddatalist
+  \field{journaltitle}{arXiv preprint arXiv:1704.07911}
+  \field{year}{2017}
+\endentry
+
+\lossort
+\endlossort
+
 \endinput

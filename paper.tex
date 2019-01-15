@@ -2,6 +2,7 @@
 \IEEEoverridecommandlockouts
 % The preceding line is only needed to identify funding in the first footnote. If that is unneeded, please comment it out.
 %\usepackage{cite}
+\usepackage[utf8]{inputenc}
 \usepackage{amsmath,amssymb,amsfonts}
 \usepackage{algorithmic}
 \usepackage{graphicx}
@@ -19,19 +20,20 @@
 \title{Self-driving	through a deep recurrent convolutional neural model.}
 \author{
 	
-\IEEEauthorblockN{Mujica-Vargas Dante}
-\IEEEauthorblockA{\textit{Dept. of Computational Sciences.} \\
+\IEEEauthorblockN{Luna-Álvarez Antonio}
+\IEEEauthorblockA{\textit{Depto. de Ciencias Computacionales.} \\
+	\textit{CENIDET-TecNM}\\
+	Cuernavaca, Mexico \\
+	jesus.luna18ce@cenidet.edu.mx}
+
+\and
+
+\IEEEauthorblockN{Mújica-Vargas Dante}
+\IEEEauthorblockA{\textit{Depto. de Ciencias Computacionales.} \\
 	\textit{CENIDET-TecNM}\\
 	Cuernavaca, Mexico \\
 	dantemv@cenidet.edu.mx}
 
-\and
-
-\IEEEauthorblockN{Luna-Alvarez Antonio}
-\IEEEauthorblockA{\textit{Dept. of Computational Sciences.} \\
-	\textit{CENIDET-TecNM}\\
-	Cuernavaca, Mexico \\
-	jesus.luna18ce@cenidet.edu.mx}
 }
 \maketitle
 
@@ -52,12 +54,12 @@ Although good self-driving results have been documented using deep learning, the
 	\centering
 	\begin{subfigure}{0.22\textwidth} 
 		\includegraphics[width=\textwidth]{img/reactive}
-		\caption{Scene that sees a reactive model.} 
+		\subcaption{Scene that sees a reactive model.} 
 		\label{subfig:reactive}
 	\end{subfigure}
 	\begin{subfigure}{0.22\textwidth} 
 		\includegraphics[width=\textwidth]{img/recurrent}
-		\caption{Scene that sees a model based on time.} 
+		\subcaption{Scene that sees a model based on time.} 
 		\label{subfig:recurrent}
 	\end{subfigure}
 	\caption{Difference between reactive and time-based models.} 
@@ -189,12 +191,12 @@ The manual driving is done through the control with the keyboard for the actions
 	\centering
 	\begin{subfigure}{0.4\textwidth} 
 		\includegraphics[width=\textwidth]{img/keyboard}
-		\caption{Steering commands with keyboard.} 
+		\subcaption{Steering commands with keyboard.} 
 		\label{subfig:key}
 	\end{subfigure}
 	\begin{subfigure}{0.4\textwidth} 
 		\includegraphics[width=\textwidth]{img/joystick}
-		\caption{Steering commands with joystick.} 
+		\subcaption{Steering commands with joystick.} 
 		\label{subfig:joy}
 	\end{subfigure}
 	\caption{Vehicle steering commands (class).} 
@@ -375,32 +377,32 @@ Performing the analysis of the results obtained, the training with the shortest 
 	\centering
 	\begin{subfigure}{0.24\textwidth} 
 		\includegraphics[width=\textwidth]{img/pilotnet1}
-		\caption{Pilotnet, largest database.} 
+		\subcaption{Pilotnet, largest database.} 
 		\label{subfig:1}
 	\end{subfigure}
 	\begin{subfigure}{0.24\textwidth} 
 		\includegraphics[width=\textwidth]{img/pilotnet2}
-		\caption{Pilotnet, shorter database.} 
+		\subcaption{Pilotnet, shorter database.} 
 		\label{subfig:2}
 	\end{subfigure}
 	\begin{subfigure}{0.24\textwidth} 
 		\includegraphics[width=\textwidth]{img/chauffeur3}
-		\caption{Chauffeur 3 steps, largest database.} 
+		\subcaption{Chauffeur 3 steps, largest database.} 
 		\label{subfig:3}
 	\end{subfigure}
 	\begin{subfigure}{0.24\textwidth} 
 		\includegraphics[width=\textwidth]{img/chauffeur5}
-		\caption{Chauffeur 5 steps, largest database.} 
+		\subcaption{Chauffeur 5 steps, largest database.} 
 		\label{subfig:4}
 	\end{subfigure}
 	\begin{subfigure}{0.24\textwidth} 
 		\includegraphics[width=\textwidth]{img/chauffeur3m}
-		\caption{Chauffeur 3 steps, shorter database.} 
+		\subcaption{Chauffeur 3 steps, shorter database.} 
 		\label{subfig:5}
 	\end{subfigure}
 	\begin{subfigure}{0.24\textwidth} 
 		\includegraphics[width=\textwidth]{img/chauffeur5m}
-		\caption{Chauffeur 5 steps, shorter database.} 
+		\subcaption{Chauffeur 5 steps, shorter database.} 
 		\label{subfig:6}
 	\end{subfigure}
 	\caption{Training metrics obtained.} 
