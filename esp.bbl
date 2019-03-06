@@ -1,0 +1,407 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{litman2017autonomous}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Litman}{L.}%
+     {Todd}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Victoria Transport Policy Institute Victoria, Canada}%
+  }
+  \strng{namehash}{LT1}
+  \strng{fullhash}{LT1}
+  \field{title}{Autonomous vehicle implementation predictions}
+  \field{year}{2017}
+\endentry
+
+\entry{pattanayak2017pro}{book}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Pattanayak}{P.}%
+     {Santanu}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pattanayak}{P.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {John}{J.}%
+     {Suresh}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{PSPJS1}
+  \strng{fullhash}{PSPJS1}
+  \field{title}{Pro Deep Learning with TensorFlow}
+  \field{year}{2017}
+\endentry
+
+\entry{zhang2016architectural}{inproceedings}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Zhang}{Z.}%
+     {Saizheng}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wu}{W.}%
+     {Yuhuai}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Che}{C.}%
+     {Tong}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lin}{L.}%
+     {Zhouhan}{Z.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Memisevic}{M.}%
+     {Roland}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Salakhutdinov}{S.}%
+     {Ruslan~R}{R.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bengio}{B.}%
+     {Yoshua}{Y.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{ZSWYCT+1}
+  \strng{fullhash}{ZSWYCTLZMRSRRBY1}
+  \field{booktitle}{Advances in Neural Information Processing Systems}
+  \field{pages}{1822\bibrangedash 1830}
+  \field{title}{Architectural complexity measures of recurrent neural networks}
+  \field{year}{2016}
+\endentry
+
+\entry{bonet2007redes}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Bonet~Cruz}{B.~C.}%
+     {Isis}{I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Salazar~Mart{\'\i}nez}{S.~M.}%
+     {Sain}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rodr{\'\i}guez~Abed}{R.~A.}%
+     {Abdel}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Grau~{\'A}balo}{G.~{\'A}.}%
+     {Ricardo}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Garc{\'\i}a~Lorenzo}{G.~L.}%
+     {Maria~Matilde}{M.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Universidad de las Ciencias Inform{\'a}ticas}%
+  }
+  \strng{namehash}{BCISMSRAA+1}
+  \strng{fullhash}{BCISMSRAAGARGLMM1}
+  \field{number}{4}
+  \field{title}{Redes neuronales recurrentes para el an{\'a}lisis de
+  secuencias}
+  \field{volume}{1}
+  \field{journaltitle}{Revista Cubana de Ciencias Inform{\'a}ticas}
+  \field{year}{2007}
+\endentry
+
+\entry{hochreiter1997long}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hochreiter}{H.}%
+     {Sepp}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schmidhuber}{S.}%
+     {J{\"u}rgen}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {MIT Press}%
+  }
+  \strng{namehash}{HSSJ1}
+  \strng{fullhash}{HSSJ1}
+  \field{number}{8}
+  \field{pages}{1735\bibrangedash 1780}
+  \field{title}{Long short-term memory}
+  \field{volume}{9}
+  \field{journaltitle}{Neural computation}
+  \field{year}{1997}
+\endentry
+
+\entry{bianchi2017recurrent}{book}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Bianchi}{B.}%
+     {Filippo~Maria}{F.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Maiorino}{M.}%
+     {Enrico}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kampffmeyer}{K.}%
+     {Michael~C}{M.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rizzi}{R.}%
+     {Antonello}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jenssen}{J.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{BFMMEKMC+1}
+  \strng{fullhash}{BFMMEKMCRAJR1}
+  \field{title}{Recurrent Neural Networks for Short-Term Load Forecasting: An
+  Overview and Comparative Analysis}
+  \field{year}{2017}
+\endentry
+
+\entry{tian2018deeptest}{inproceedings}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Tian}{T.}%
+     {Yuchi}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pei}{P.}%
+     {Kexin}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jana}{J.}%
+     {Suman}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ray}{R.}%
+     {Baishakhi}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {ACM}%
+  }
+  \strng{namehash}{TYPKJS+1}
+  \strng{fullhash}{TYPKJSRB1}
+  \field{booktitle}{Proceedings of the 40th International Conference on
+  Software Engineering}
+  \field{pages}{303\bibrangedash 314}
+  \field{title}{Deeptest: Automated testing of deep-neural-network-driven
+  autonomous cars}
+  \field{year}{2018}
+\endentry
+
+\entry{hassan2018convolutional}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hassan}{H.}%
+     {Abdalraouf}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mahmood}{M.}%
+     {Ausif}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IEEE}%
+  }
+  \strng{namehash}{HAMA1}
+  \strng{fullhash}{HAMA1}
+  \field{pages}{13949\bibrangedash 13957}
+  \field{title}{Convolutional Recurrent Deep Learning Model for Sentence
+  Classification}
+  \field{volume}{6}
+  \field{journaltitle}{IEEE Access}
+  \field{year}{2018}
+\endentry
+
+\entry{pinheiro2014recurrent}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Pinheiro}{P.}%
+     {Pedro~HO}{P.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Collobert}{C.}%
+     {Ronan}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PPHCR1}
+  \strng{fullhash}{PPHCR1}
+  \field{booktitle}{31st International Conference on Machine Learning (ICML)}
+  \field{number}{EPFL-CONF-199822}
+  \field{title}{Recurrent convolutional neural networks for scene labeling}
+  \field{year}{2014}
+\endentry
+
+\entry{bojarski2016end}{article}{}
+  \true{moreauthor}
+  \name{author}{10}{}{%
+    {{}%
+     {Bojarski}{B.}%
+     {Mariusz}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Del~Testa}{D.~T.}%
+     {Davide}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dworakowski}{D.}%
+     {Daniel}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Firner}{F.}%
+     {Bernhard}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Flepp}{F.}%
+     {Beat}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Goyal}{G.}%
+     {Prasoon}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jackel}{J.}%
+     {Lawrence~D}{L.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Monfort}{M.}%
+     {Mathew}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Muller}{M.}%
+     {Urs}{U.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zhang}{Z.}%
+     {Jiakai}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BMDTDDD+1}
+  \strng{fullhash}{BMDTDDDFBFBGPJLDMMMUZJ+1}
+  \field{title}{End to end learning for self-driving cars}
+  \field{journaltitle}{arXiv preprint arXiv:1604.07316}
+  \field{year}{2016}
+\endentry
+
+\entry{bojarski2017explaining}{article}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Bojarski}{B.}%
+     {Mariusz}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Yeres}{Y.}%
+     {Philip}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Choromanska}{C.}%
+     {Anna}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Choromanski}{C.}%
+     {Krzysztof}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Firner}{F.}%
+     {Bernhard}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jackel}{J.}%
+     {Lawrence}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Muller}{M.}%
+     {Urs}{U.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BMYPCA+1}
+  \strng{fullhash}{BMYPCACKFBJLMU1}
+  \field{title}{Explaining how a deep neural network trained with end-to-end
+  learning steers a car}
+  \field{journaltitle}{arXiv preprint arXiv:1704.07911}
+  \field{year}{2017}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
